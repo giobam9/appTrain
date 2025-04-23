@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="apptrain.HistoryPage"
+             Title="">
+    <VerticalStackLayout Padding="20" Spacing="10">
+
+        <Label Text="История тренировок" FontSize="24" HorizontalOptions="Center" />
+
+        <CollectionView x:Name="WorkoutListView">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BorderColor="LightGray" Margin="5" Padding="10">
+                        <VerticalStackLayout>
+                            <Label Text="{Binding Exercise}" FontAttributes="Bold" />
+                            <Label Text="{Binding Podxod, StringFormat='Подходы: {0}'}" />
+                            <Label Text="{Binding Povtor, StringFormat='Повторы: {0}'}" />
+                            <Label Text="{Binding Date, StringFormat='Дата: {0:dd.MM.yyyy HH:mm}'}" />
+                        </VerticalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </VerticalStackLayout>
+</ContentPage>

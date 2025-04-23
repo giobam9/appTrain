@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\apptrain\\apptrain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|d:\\apptrain\\apptrain\\apptrain\\historypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|solutionrelative:apptrain\\historypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|d:\\apptrain\\apptrain\\apptrain\\historypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|solutionrelative:apptrain\\historypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|d:\\apptrain\\apptrain\\apptrain\\workoutentery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|solutionrelative:apptrain\\workoutentery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|d:\\apptrain\\apptrain\\apptrain\\workoutdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|solutionrelative:apptrain\\workoutdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|d:\\apptrain\\apptrain\\apptrain\\workoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|solutionrelative:apptrain\\workoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|d:\\apptrain\\apptrain\\apptrain\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|solutionrelative:apptrain\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|d:\\apptrain\\apptrain\\apptrain\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|solutionrelative:apptrain\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|d:\\apptrain\\apptrain\\apptrain\\workoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|solutionrelative:apptrain\\workoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|d:\\apptrain\\apptrain\\apptrain\\daypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|solutionrelative:apptrain\\daypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|d:\\apptrain\\apptrain\\apptrain\\daypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC6054E-FF35-44A1-8F49-A649E4A11D3B}|apptrain\\apptrain.csproj|solutionrelative:apptrain\\daypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkoutDatabase.cs",
+              "DocumentMoniker": "D:\\apptrain\\apptrain\\apptrain\\WorkoutDatabase.cs",
+              "RelativeDocumentMoniker": "apptrain\\WorkoutDatabase.cs",
+              "ToolTip": "D:\\apptrain\\apptrain\\apptrain\\WorkoutDatabase.cs",
+              "RelativeToolTip": "apptrain\\WorkoutDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:08:48.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoryPage.xaml.cs",
+              "DocumentMoniker": "D:\\apptrain\\apptrain\\apptrain\\HistoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "apptrain\\HistoryPage.xaml.cs",
+              "ToolTip": "D:\\apptrain\\apptrain\\apptrain\\HistoryPage.xaml.cs",
+              "RelativeToolTip": "apptrain\\HistoryPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:06:14.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistoryPage.xaml",
+              "DocumentMoniker": "D:\\apptrain\\apptrain\\apptrain\\HistoryPage.xaml",
+              "RelativeDocumentMoniker": "apptrain\\HistoryPage.xaml",
+              "ToolTip": "D:\\apptrain\\apptrain\\apptrain\\HistoryPage.xaml*",
+              "RelativeToolTip": "apptrain\\HistoryPage.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T12:33:33.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkoutEntery.cs",
+              "DocumentMoniker": "D:\\apptrain\\apptrain\\apptrain\\WorkoutEntery.cs",
+              "RelativeDocumentMoniker": "apptrain\\WorkoutEntery.cs",
+              "ToolTip": "D:\\apptrain\\apptrain\\apptrain\\WorkoutEntery.cs",
+              "RelativeToolTip": "apptrain\\WorkoutEntery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:13:40.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DayPage.xaml",
+              "DocumentMoniker": "D:\\apptrain\\apptrain\\apptrain\\DayPage.xaml",
+              "RelativeDocumentMoniker": "apptrain\\DayPage.xaml",
+              "ToolTip": "D:\\apptrain\\apptrain\\apptrain\\DayPage.xaml",
+              "RelativeToolTip": "apptrain\\DayPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T12:02:38.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DayPage.xaml.cs",
+              "DocumentMoniker": "D:\\apptrain\\apptrain\\apptrain\\DayPage.xaml.cs",
+              "RelativeDocumentMoniker": "apptrain\\DayPage.xaml.cs",
+              "ToolTip": "D:\\apptrain\\apptrain\\apptrain\\DayPage.xaml.cs",
+              "RelativeToolTip": "apptrain\\DayPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:07:58.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkoutPage.xaml.cs",
+              "DocumentMoniker": "D:\\apptrain\\apptrain\\apptrain\\WorkoutPage.xaml.cs",
+              "RelativeDocumentMoniker": "apptrain\\WorkoutPage.xaml.cs",
+              "ToolTip": "D:\\apptrain\\apptrain\\apptrain\\WorkoutPage.xaml.cs*",
+              "RelativeToolTip": "apptrain\\WorkoutPage.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:02:02.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkoutPage.xaml",
+              "DocumentMoniker": "D:\\apptrain\\apptrain\\apptrain\\WorkoutPage.xaml",
+              "RelativeDocumentMoniker": "apptrain\\WorkoutPage.xaml",
+              "ToolTip": "D:\\apptrain\\apptrain\\apptrain\\WorkoutPage.xaml",
+              "RelativeToolTip": "apptrain\\WorkoutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T18:58:23.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\apptrain\\apptrain\\apptrain\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "apptrain\\MainPage.xaml.cs",
+              "ToolTip": "D:\\apptrain\\apptrain\\apptrain\\MainPage.xaml.cs*",
+              "RelativeToolTip": "apptrain\\MainPage.xaml.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:30:50.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\apptrain\\apptrain\\apptrain\\MainPage.xaml",
+              "RelativeDocumentMoniker": "apptrain\\MainPage.xaml",
+              "ToolTip": "D:\\apptrain\\apptrain\\apptrain\\MainPage.xaml",
+              "RelativeToolTip": "apptrain\\MainPage.xaml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-20T13:29:34.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

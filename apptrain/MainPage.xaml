@@ -1,0 +1,63 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="apptrain.MainPage">
+
+
+    <VerticalStackLayout Padding="20">
+
+        <!-- Заголовок -->
+        <Label 
+            Text="Выберите упражнение"
+            FontSize="24"
+            HorizontalOptions="Center" />
+
+        <!-- Список упражнений -->
+        <CollectionView 
+            x:Name="ExerciseListView"
+            SelectionMode="Single"
+            SelectionChanged="OnExerciseSelected"><!-- это метод к которму я буду обращаться в коде-->
+
+            <!--то как должен выглядеть текст в списке,без этого текст не отобразится-->
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BorderColor="Gray" Padding="10" Margin="5">
+                        <Label Text="{Binding .}" FontSize="18" />
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+        </CollectionView>
+
+        <Button
+            Text="история"
+            Clicked="OnHistoryClicked"/>
+
+        <!--пробная страница-->
+        <Label Text="выберите день"
+               FontSize="24"
+               HorizontalOptions="CenterAndExpand"/>
+       
+        
+        <CollectionView
+            x:Name = "DayList"
+            SelectionMode="Single"
+            SelectionChanged="DayList_SelectionChanged"
+            
+            >
+            
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Span="2" Orientation="Vertical" />
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BorderColor="Gray" Padding="10" Margin="5">
+                        <Label Text="{Binding .}" FontSize="18" />
+                    </Frame>
+
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </VerticalStackLayout>
+
+</ContentPage>
